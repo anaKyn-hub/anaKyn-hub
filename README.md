@@ -33,5 +33,3 @@
 ## 🌎 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarlmedei)
-
-![Snake animation](https://github.com/anaKyn-hub/anaKyn-hub/blob/output/github-contribution-grid-snake.svg)
