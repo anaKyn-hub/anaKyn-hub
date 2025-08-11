@@ -6,13 +6,14 @@
 
 ## ✨ Sobre mim
 
-- 🔭 Estou focada em aprender e praticar meu conhecimentos em tecnologias para back-end
+- 🔭 Estou focada em aprender e praticar meu conhecimentos em tecnologias para desenvolvimento de software
 - 📖 Atualmente estudando C# com .NET e Python
 - 🌱 Em busca do meu primeiro estágio como dev
 - 🎨 Sou também da comunicação, musicista e fotógrafa
 
 ## 📌 Projetos em Destaque
 
+- 🖥️ [Imersão Dados com Python](https://github.com/anaKyn-hub/imersao-dados-alura)
 - 🖥️ [Imersão Backend](https://github.com/anaKyn-hub/Imersao-Backend)
 - 💻 [Estudos de Resposividade Web](https://github.com/anaKyn-hub/Responsive-Web-Design-Studies)
 - 🕹️ [Jogo Pokemon Simples](https://github.com/anaKyn-hub/Pokemon-Game)
