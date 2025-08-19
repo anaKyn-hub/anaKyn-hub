@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciências da Computação | Formada em Jogos Digitais <Br>
 💡 Apaixonada por desenvolvimento back-end e engenharia de software <Br>
-📚 Estudando: C#, JavaScript, Python, .NET, Cloud Computing
+📚 Estudando: C#, JavaScript, Python, .NET, Cloud Computing e banco de dados
 
 ## ✨ Sobre mim
 
