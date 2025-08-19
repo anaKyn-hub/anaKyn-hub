@@ -7,8 +7,8 @@
 ## ✨ Sobre mim
 
 - 🔭 Estou focada em aprender e praticar meu conhecimentos em tecnologias para desenvolvimento de software
-- 📖 Atualmente estudando C# com .NET e Python
-- 🌱 Em busca do meu primeiro estágio como dev
+- 📖 Atualmente estudando C# com .NET, Python e banco de dados
+- 🌱 Em busca do meu primeiro estágio
 - 🎨 Sou também da comunicação, musicista e fotógrafa
 
 ## 📌 Projetos em Destaque
